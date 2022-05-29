@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/zaf/resample"
+	"github.com/seastart/resample"
 )
 
 const wavHeader = 44
